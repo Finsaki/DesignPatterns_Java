@@ -30,7 +30,7 @@ public class RealImage implements Image {
     private Object loadImageFromDisk() {
     	System.out.println("Loading content...");
     	try {
-    		Object myObj = ImageIO.read(new File(this.filename));
+    		Object myObj = ImageIO.read(new File("src/akiko/proxy/" + this.filename));
     	    return myObj;
     	} catch (IOException e) {
     	    System.out.println("No file with given name was found.");
