@@ -1,5 +1,11 @@
 package akiko.factorymethod;
 
+/**
+ * This was the first assignment which at that point I made in finnish
+ * 
+ * @author akiko
+ *
+ */
 public class Main {
 
     public static void main(String[] args) {
