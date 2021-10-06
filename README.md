@@ -18,12 +18,13 @@ Design patterns in this project:
 - Visitor
 - Builder
 - Adapter
-- Bridge (Not yet done)
-- Flyweight (Not yet done)
-- Prototype (Not yet done)
-- Mediator (Not yet done)
-- Iterator (Not yet done)
-- Facade (Not yet done)
-- Command (Not yet done)
+- Bridge (Only pdf)
+- Flyweight (+ pdf)
+- Prototype
+- Mediator (Only jpg)
+- Iterator (+ pdf)
+- Facade
+- Command
 
-Will post more information when all tasks are done
+Most design patterns contain only the code used, some also have pdf explaining the functionality.
+Mediator is only described by a jpg picture.
